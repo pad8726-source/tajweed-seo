@@ -1,0 +1,110 @@
+[
+  {
+    "id": "fr-madd-01",
+    "lang": "fr",
+    "platform": "tiktok",
+    "hook": "Pourquoi certaines lettres « traînent » dans la récitation ?",
+    "script": "1. Montre une voyelle longue (ā, ī, ū) lue deux fois plus longtemps.\n2. Explique : c'est le madd, l'allongement de la voyelle.\n3. Durée de base : deux temps (harakat). Certains madd s'allongent davantage.",
+    "caption": "Le madd, c'est l'allongement des voyelles longues. Ça change le sens et le rythme.",
+    "hashtags": ["tajwid", "coran", "recitation", "apprendreleCoran"]
+  },
+  {
+    "id": "fr-ghunna-01",
+    "lang": "fr",
+    "platform": "instagram",
+    "hook": "Le ghunna : ce son qui passe par le nez",
+    "script": "1. Lis نّ et مّ avec une shadda, en laissant le son sortir par le nez.\n2. Compare avec la même lettre sans nasalisation.\n3. Répète trois fois lentement.",
+    "caption": "Le ghunna se travaille lentement. Commence par les lettres avec shadda.",
+    "hashtags": ["tajwid", "ghunna", "coran", "recitation"]
+  },
+  {
+    "id": "fr-qalqala-01",
+    "lang": "fr",
+    "platform": "tiktok",
+    "hook": "Cinq lettres qui font « rebondir » le son",
+    "script": "1. Affiche : ق ط ب ج د (mnémotechnique : قطب جد).\n2. Quand elles portent un sukūn, le son rebondit légèrement.\n3. Lis deux mots exemples à voix haute.",
+    "caption": "La qalqala : un léger rebond sur cinq lettres quand elles sont sans voyelle.",
+    "hashtags": ["tajwid", "qalqala", "coran", "apprendreleCoran"]
+  },
+  {
+    "id": "fr-makharij-01",
+    "lang": "fr",
+    "platform": "instagram",
+    "hook": "D'où sort vraiment la lettre ?",
+    "script": "1. Montre la gorge, puis la langue, puis les lèvres.\n2. Dis une lettre de la gorge (ʿayn), une de la langue, une des lèvres (bāʾ).\n3. Demande au spectateur de sentir où ça vibre.",
+    "caption": "Les makhārij : les points d'articulation des lettres. Tout commence par là.",
+    "hashtags": ["makharij", "tajwid", "arabe", "coran"]
+  },
+  {
+    "id": "fr-tartil-01",
+    "lang": "fr",
+    "platform": "tiktok",
+    "hook": "Réciter trop vite, la vraie erreur débutante",
+    "script": "1. Récite un verset rapidement, puis le même lentement.\n2. Dis : le Coran demande le tartīl, une récitation posée.\n3. Donne le repère : sourate Al-Muzzammil, verset 4.",
+    "caption": "Le tartīl : réciter lentement et distinctement. Une règle, pas une option.",
+    "hashtags": ["tartil", "coran", "tajwid", "recitation"]
+  },
+  {
+    "id": "fr-izhar-01",
+    "lang": "fr",
+    "platform": "instagram",
+    "hook": "Nūn sākin et tanwīn : quatre règles, un seul principe",
+    "script": "1. Affiche les quatre noms : izhār, idghām, ikhfāʾ, iqlāb.\n2. Pour chacun, dis ce qui arrive au nūn.\n3. Ferme sur une question : laquelle entends-tu le plus souvent ?",
+    "caption": "Izhār, idghām, ikhfāʾ, iqlāb : quatre façons de lire le nūn sākin et le tanwīn.",
+    "hashtags": ["tajwid", "nunsakin", "coran", "apprendreleCoran"]
+  },
+  {
+    "id": "en-tajweed-01",
+    "lang": "en",
+    "platform": "tiktok",
+    "hook": "What does tajweed actually mean?",
+    "script": "1. Show the Arabic word and a short definition.\n2. Explain: the root means to make something better or more precise.\n3. Say the goal is accurate recitation, not melody.",
+    "caption": "Tajweed: the rules for reciting the Quran correctly, letter by letter.",
+    "hashtags": ["tajweed", "quran", "quranrecitation", "learnquran"]
+  },
+  {
+    "id": "en-qalqalah-01",
+    "lang": "en",
+    "platform": "instagram",
+    "hook": "The five letters that bounce",
+    "script": "1. Show the five letters: ق ط ب ج د.\n2. Explain the qalqalah: a slight bounce when they carry a sukūn.\n3. Read two example words aloud.",
+    "caption": "Qalqalah: a light bounce on five letters. Easy to hear once you know what to listen for.",
+    "hashtags": ["tajweed", "qalqalah", "quran", "learnquran"]
+  },
+  {
+    "id": "en-madd-01",
+    "lang": "en",
+    "platform": "tiktok",
+    "hook": "Why some Quran letters stretch",
+    "script": "1. Show a long vowel (ā) read short, then read in full.\n2. Explain: this is madd, the lengthening of a long vowel.\n3. Base length is two counts (harakat). Some madd are longer.",
+    "caption": "Madd: why the long vowels in the Quran are held longer than in normal speech.",
+    "hashtags": ["tajweed", "madd", "quran", "quranrecitation"]
+  },
+  {
+    "id": "en-makharij-01",
+    "lang": "en",
+    "platform": "instagram",
+    "hook": "Where does each Arabic letter come from?",
+    "script": "1. Point to the throat, then the tongue, then the lips.\n2. Say one throat letter (ʿayn), one tongue letter, one lip letter (bāʾ).\n3. Ask viewers to feel where the sound starts.",
+    "caption": "Makharij: the points of articulation of Arabic letters. The foundation of tajweed.",
+    "hashtags": ["makharij", "tajweed", "arabic", "quran"]
+  },
+  {
+    "id": "en-tartil-01",
+    "lang": "en",
+    "platform": "tiktok",
+    "hook": "The beginner mistake: reciting too fast",
+    "script": "1. Recite one verse fast, then the same verse slowly.\n2. Say: the Quran asks for tartīl, measured recitation.\n3. Give the reference: Surah Al-Muzzammil, verse 4.",
+    "caption": "Tartil: slow, clear recitation. It is part of the command, not an extra.",
+    "hashtags": ["tartil", "quran", "tajweed", "quranrecitation"]
+  },
+  {
+    "id": "en-self-study-01",
+    "lang": "en",
+    "platform": "instagram",
+    "hook": "Learning tajweed without a teacher: what helps",
+    "script": "1. Say: a qualified teacher is the best reference.\n2. List what helps between lessons: listening to a reference reciter, recording yourself, correcting one letter at a time.\n3. Invite viewers to share their hardest letter.",
+    "caption": "Learning tajweed between lessons: listen, record, correct one letter at a time.",
+    "hashtags": ["tajweed", "learnquran", "quran", "recitation"]
+  }
+]
